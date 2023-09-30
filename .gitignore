@@ -11,7 +11,7 @@ my-venv/
 data/
 
 # Model Files (if they should not be public)
-model/*.pkl
+# model/*.pkl
 
 # Logs
 *.log
