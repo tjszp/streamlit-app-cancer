@@ -1,0 +1,32 @@
+# Python & Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+my-venv/
+
+# Data Files (if they should not be public)
+data/
+
+# Model Files (if they should not be public)
+model/*.pkl
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python artifacts
+*.egg-info/
+dist/
+build/
